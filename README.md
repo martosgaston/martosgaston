@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @martosgaston
-- 👀 I’m interested in Data Science and AI
-- 🌱 I’m currently learning Machine Learning with Python
-- 💞️ I’m looking to collaborate in an online teaching program
+- 👋 Hi, I’m Gastón Martos
+- 👀 I'm a senior Data Analyst
+- 🌱 I’m currently working at Vistaprint
+- 💞️ I’m currently running an education program
 - 📫 People can reach out to me at linkedin.com/in/martosgaston
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I come from the Economics field.
+- ⚡ Fun fact: I come from the Administration/Economics field.
 
 <!---
 martosgaston/martosgaston is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
